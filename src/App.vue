@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/">계산기</router-link> |
+      <router-link to="/about">지형상성</router-link>
     </div>
     <router-view/>
   </div>
